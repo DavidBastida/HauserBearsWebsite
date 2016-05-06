@@ -1,0 +1,27 @@
+html, body {
+    min-height: 100vh;
+}
+
+body {background-image: url("woods.jpg");
+    background-repeat:no-repeat;
+background-size: cover;
+
+}
+.section{width:250px;}
+
+.container {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;padding-bottom:30px;}
+.column {float:right}
+nav {color:white;font-family:'helvetica';border-style:solid;border-width:2px;border-color:black;}
+h1 {color:white; font-family:'Helvetica';text-decoration:underline;text-align:center;}
+p {color:white;font-family:'Helvetica';text-align:center;border-style:solid;border-width:2px;border-color:black;}
+
+.mission-backing {
+    background-color: rgba(0,0,0,0.5);
+}
+form{color:white;text-decoration:underline;text-align:center;}
+h2 {color:white;font-family:'Helvetica';font-size:18pt;text-decoration:underline;}
+section{text-align:left;color:white;}
+a{padding-right:179px;}
